@@ -19,16 +19,18 @@ The workspace contains two folders by default, where:
 
 Compiled output files will be generated in the `bin` folder by default.
 
-<p align="left">
+<div id="mainDiv">
+<div align="left">
   <img width="400" height="400" src="docs/false.jpg">
-</p>
-<p align="left">
+</div>
+<div align="left">
   <img width="400" height="50" src="docs/false2.jpg">
-</p>
+</div>
 
-<p align="left">
+<div align="left">
   <img width="400" height="400" src="docs/true.jpg">
-</p>
-<p align="left">
+</div>
+<div align="left">
   <img width="400" height="50" src="docs/true2.jpg">
-</p>
+</div>
+</div>
