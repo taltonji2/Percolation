@@ -21,10 +21,6 @@ Compiled output files will be generated in the `bin` folder by default.
 
 <div id="mainDiv">
 	<div align="center">
-
-https://user-images.githubusercontent.com/77422130/147412174-b1557687-e6c0-4665-824f-896c2c0def24.mov
-
-
   		<img width="400" height="400" src="docs/false.jpg">
 	</div>
 	<div align="center">
@@ -38,8 +34,6 @@ https://user-images.githubusercontent.com/77422130/147412174-b1557687-e6c0-4665-
 	</div>
 </div>
 
-<video width="500" height="500" autoplay>
-  <source src="movie.mp4" type="video/mp4">
-  <source src="movie.ogg" type="video/ogg">
-Your browser does not support the video tag.
-</video>
+
+https://user-images.githubusercontent.com/77422130/147412184-3d8040e4-3328-4e08-b327-98b9f86fcaf4.mov
+
