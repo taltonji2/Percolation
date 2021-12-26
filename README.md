@@ -18,11 +18,12 @@ The workspace contains two folders by default, where:
 - `lib`: the folder to maintain dependencies
 
 Compiled output files will be generated in the `bin` folder by default.
-
+<head>
 #mainDiv{ 
 		width:50%; 
 margin:auto; 
 	} 
+</head>
 <div id="mainDiv">
 <div align="left">
   <img width="400" height="400" src="docs/false.jpg">
