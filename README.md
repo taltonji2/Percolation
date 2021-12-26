@@ -18,6 +18,9 @@ The workspace contains two folders by default, where:
 - `lib`: the folder to maintain dependencies
 
 Compiled output files will be generated in the `bin` folder by default.
-<p align="center">
+<p align="left">
   <img width="500" height="500" src="docs/false.jpg">
+</p>
+<p align="left">
+  <img width="500" height="500" src="docs/false2.jpg">
 </p>
