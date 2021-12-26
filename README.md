@@ -35,7 +35,7 @@ Compiled output files will be generated in the `bin` folder by default.
 </div>
 
 
-
+<center>
 https://user-images.githubusercontent.com/77422130/147412232-2232c860-ded8-44c8-bfa2-9c9c92e770a1.mov
-
+</center>
 
