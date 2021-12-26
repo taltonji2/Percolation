@@ -19,7 +19,6 @@ The workspace contains two folders by default, where:
 
 Compiled output files will be generated in the `bin` folder by default.
 
-</head>
 <div id="mainDiv">
 	<div align="center">
   		<img width="400" height="400" src="docs/false.jpg">
@@ -35,6 +34,8 @@ Compiled output files will be generated in the `bin` folder by default.
 	</div>
 </div>
 
-<iframe width="500" height="500"
-src="https://www.youtube.com/embed/tgbNymZ7vqY">
-</iframe>
+<video width="500" height="500" autoplay>
+  <source src="movie.mp4" type="video/mp4">
+  <source src="movie.ogg" type="video/ogg">
+Your browser does not support the video tag.
+</video>
