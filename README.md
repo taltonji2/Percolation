@@ -4,7 +4,9 @@ A Java program using the Union-Find data type to determine if connected paths in
 ## Summary
 
 Percolation is an application of the Union-Find data type which seeks to solve the dynamic-connectivity problem. Percolation.java creates a "random" n * n grid of sites and determines if their is at least one open site at the top connected to an open site at the bottom (blue for open sites, black for closed sites).
+
 https://user-images.githubusercontent.com/77422130/147412232-2232c860-ded8-44c8-bfa2-9c9c92e770a1.mov
+
 ## How to Run
 
 All java files in `src` must be compiled.
