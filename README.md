@@ -1,5 +1,5 @@
 # Percolation
-A Java program to determine connected paths in a system. 
+A Java program using the Union-Find data type to determine connected paths in a system. 
 
 ## Summary
 
