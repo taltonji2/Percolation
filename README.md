@@ -18,3 +18,6 @@ The workspace contains two folders by default, where:
 - `lib`: the folder to maintain dependencies
 
 Compiled output files will be generated in the `bin` folder by default.
+<p align="center">
+  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+</p>
