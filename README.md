@@ -23,12 +23,12 @@ Compiled output files will be generated in the `bin` folder by default.
   <img width="400" height="400" src="docs/false.jpg">
 </p>
 <p align="left">
-  <img width="300" height="50" src="docs/false2.jpg">
+  <img width="400" height="50" src="docs/false2.jpg">
 </p>
 
 <p align="left">
   <img width="400" height="400" src="docs/true.jpg">
 </p>
 <p align="left">
-  <img width="300" height="50" src="docs/true2.jpg">
+  <img width="400" height="50" src="docs/true2.jpg">
 </p>
