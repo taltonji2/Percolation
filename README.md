@@ -22,5 +22,5 @@ Compiled output files will be generated in the `bin` folder by default.
   <img width="500" height="500" src="docs/false.jpg">
 </p>
 <p align="left">
-  <img width="100" height="50" src="docs/false2.jpg">
+  <img width="300" height="50" src="docs/false2.jpg">
 </p>
